@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-rest",
+  "name": "loopback-connector-rest-relaxed",
   "version": "1.10.0",
   "description": "Loopback REST Connector",
   "keywords": [
